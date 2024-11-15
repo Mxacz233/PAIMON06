@@ -1,0 +1,127 @@
+Change Component Designator: OldDesignator=C1_Designator2 NewDesignator=C1_TPS54360-5VP
+Change Component Designator: OldDesignator=C2_Designator2 NewDesignator=C2_TPS54360-5VP
+Change Component Designator: OldDesignator=C3_Designator2 NewDesignator=C3_TPS54360-5VP
+Change Component Designator: OldDesignator=C4_Designator2 NewDesignator=C4_TPS54360-5VP
+Change Component Designator: OldDesignator=C5_Designator2 NewDesignator=C5_TPS54360-5VP
+Change Component Designator: OldDesignator=C6_Designator2 NewDesignator=C6_TPS54360-5VP
+Change Component Designator: OldDesignator=D1_Designator2 NewDesignator=D1_TPS54360-5VP
+Change Component Designator: OldDesignator=L1_Designator2 NewDesignator=L1_TPS54360-5VP
+Change Component Designator: OldDesignator=R1_Designator2 NewDesignator=R1_TPS54360-5VP
+Change Component Designator: OldDesignator=R2_Designator2 NewDesignator=R2_TPS54360-5VP
+Change Component Designator: OldDesignator=R3_Designator2 NewDesignator=R3_TPS54360-5VP
+Change Component Designator: OldDesignator=R4_Designator2 NewDesignator=R4_TPS54360-5VP
+Change Component Designator: OldDesignator=U1_Designator2 NewDesignator=U1_TPS54360-5VP
+Added Component: Designator=C1_TPS54360-5VS(0603C)
+Added Component: Designator=C1_TPS54360-12V(0603C)
+Added Component: Designator=C2_TPS54360-5VS(0805C)
+Added Component: Designator=C2_TPS54360-12V(0805C)
+Added Component: Designator=C3_TPS54360-5VS(0805C)
+Added Component: Designator=C3_TPS54360-12V(0805C)
+Added Component: Designator=C4_TPS54360-5VS(0805C)
+Added Component: Designator=C4_TPS54360-12V(0805C)
+Added Component: Designator=C5_TPS54360-5VS(0603C)
+Added Component: Designator=C5_TPS54360-12V(0603C)
+Added Component: Designator=C6_TPS54360-5VS(0603C)
+Added Component: Designator=C6_TPS54360-12V(0603C)
+Added Component: Designator=D1_TPS54360-5VS(SMA)
+Added Component: Designator=D1_TPS54360-12V(SMA)
+Added Component: Designator=L1_TPS54360-5VS(0630L)
+Added Component: Designator=L1_TPS54360-12V(0630L)
+Added Component: Designator=R1_TPS54360-5VS(0603R)
+Added Component: Designator=R1_TPS54360-12V(0603R)
+Added Component: Designator=R2_TPS54360-5VS(0603R)
+Added Component: Designator=R2_TPS54360-12V(0603R)
+Added Component: Designator=R3_TPS54360-5VS(0603R)
+Added Component: Designator=R3_TPS54360-12V(0603R)
+Added Component: Designator=R4_TPS54360-5VS(0603R)
+Added Component: Designator=R4_TPS54360-12V(0603R)
+Added Component: Designator=U1_TPS54360-5VS(SOP-8-PP)
+Added Component: Designator=U1_TPS54360-12V(SOP-8-PP)
+Added Pin To Net: NetName=GND Pin=C2_TPS54360-5VS-1
+Added Pin To Net: NetName=VCC Pin=C2_TPS54360-5VS-2
+Added Pin To Net: NetName=GND Pin=C2_TPS54360-12V-1
+Added Pin To Net: NetName=VCC Pin=C2_TPS54360-12V-2
+Added Pin To Net: NetName=GND Pin=C3_TPS54360-5VS-1
+Added Pin To Net: NetName=+5VS Pin=C3_TPS54360-5VS-2
+Added Pin To Net: NetName=GND Pin=C3_TPS54360-12V-1
+Added Pin To Net: NetName=+12V Pin=C3_TPS54360-12V-2
+Added Pin To Net: NetName=GND Pin=C4_TPS54360-5VS-1
+Added Pin To Net: NetName=+5VS Pin=C4_TPS54360-5VS-2
+Added Pin To Net: NetName=GND Pin=C4_TPS54360-12V-1
+Added Pin To Net: NetName=+12V Pin=C4_TPS54360-12V-2
+Added Pin To Net: NetName=GND Pin=C5_TPS54360-5VS-2
+Added Pin To Net: NetName=GND Pin=C5_TPS54360-12V-2
+Added Pin To Net: NetName=GND Pin=C6_TPS54360-5VS-2
+Added Pin To Net: NetName=GND Pin=C6_TPS54360-12V-2
+Added Pin To Net: NetName=GND Pin=D1_TPS54360-5VS-1
+Added Pin To Net: NetName=GND Pin=D1_TPS54360-12V-1
+Added Pin To Net: NetName=+5VS Pin=L1_TPS54360-5VS-2
+Added Pin To Net: NetName=+12V Pin=L1_TPS54360-12V-2
+Added Pin To Net: NetName=+5VS Pin=R1_TPS54360-5VS-2
+Added Pin To Net: NetName=+12V Pin=R1_TPS54360-12V-2
+Added Pin To Net: NetName=GND Pin=R3_TPS54360-5VS-1
+Added Pin To Net: NetName=GND Pin=R3_TPS54360-12V-1
+Added Pin To Net: NetName=GND Pin=R4_TPS54360-5VS-1
+Added Pin To Net: NetName=GND Pin=R4_TPS54360-12V-1
+Added Pin To Net: NetName=VCC Pin=U1_TPS54360-5VS-2
+Added Pin To Net: NetName=GND Pin=U1_TPS54360-5VS-7
+Added Pin To Net: NetName=GND Pin=U1_TPS54360-5VS-9
+Added Pin To Net: NetName=VCC Pin=U1_TPS54360-12V-2
+Added Pin To Net: NetName=GND Pin=U1_TPS54360-12V-7
+Added Pin To Net: NetName=GND Pin=U1_TPS54360-12V-9
+Change Net Name : Old Net Name=FB_54360_Designator2 New Net Name=FB_54360_TPS54360-5VP
+Change Net Name : Old Net Name=NetC1_Designator2_1 New Net Name=NetC1_TPS54360-5VP_1
+Change Net Name : Old Net Name=NetC1_Designator2_2 New Net Name=NetC1_TPS54360-5VP_2
+Change Net Name : Old Net Name=NetC5_Designator2_1 New Net Name=NetC5_TPS54360-5VP_1
+Change Net Name : Old Net Name=NetC6_Designator2_1 New Net Name=NetC6_TPS54360-5VP_1
+Change Net Name : Old Net Name=NetR4_Designator2_2 New Net Name=NetR4_TPS54360-5VP_2
+Added Pin To Net: NetName=FB_54360_TPS54360-5VS Pin=R1_TPS54360-5VS-1
+Added Pin To Net: NetName=FB_54360_TPS54360-5VS Pin=R3_TPS54360-5VS-2
+Added Pin To Net: NetName=FB_54360_TPS54360-5VS Pin=U1_TPS54360-5VS-5
+Added Net: Name=FB_54360_TPS54360-5VS
+Added Pin To Net: NetName=FB_54360_TPS54360-12V Pin=R1_TPS54360-12V-1
+Added Pin To Net: NetName=FB_54360_TPS54360-12V Pin=R3_TPS54360-12V-2
+Added Pin To Net: NetName=FB_54360_TPS54360-12V Pin=U1_TPS54360-12V-5
+Added Net: Name=FB_54360_TPS54360-12V
+Added Pin To Net: NetName=NetC1_TPS54360-5VS_1 Pin=C1_TPS54360-5VS-1
+Added Pin To Net: NetName=NetC1_TPS54360-5VS_1 Pin=D1_TPS54360-5VS-2
+Added Pin To Net: NetName=NetC1_TPS54360-5VS_1 Pin=L1_TPS54360-5VS-1
+Added Pin To Net: NetName=NetC1_TPS54360-5VS_1 Pin=U1_TPS54360-5VS-8
+Added Net: Name=NetC1_TPS54360-5VS_1
+Added Pin To Net: NetName=NetC1_TPS54360-5VS_2 Pin=C1_TPS54360-5VS-2
+Added Pin To Net: NetName=NetC1_TPS54360-5VS_2 Pin=U1_TPS54360-5VS-1
+Added Net: Name=NetC1_TPS54360-5VS_2
+Added Pin To Net: NetName=NetC1_TPS54360-12V_1 Pin=C1_TPS54360-12V-1
+Added Pin To Net: NetName=NetC1_TPS54360-12V_1 Pin=D1_TPS54360-12V-2
+Added Pin To Net: NetName=NetC1_TPS54360-12V_1 Pin=L1_TPS54360-12V-1
+Added Pin To Net: NetName=NetC1_TPS54360-12V_1 Pin=U1_TPS54360-12V-8
+Added Net: Name=NetC1_TPS54360-12V_1
+Added Pin To Net: NetName=NetC1_TPS54360-12V_2 Pin=C1_TPS54360-12V-2
+Added Pin To Net: NetName=NetC1_TPS54360-12V_2 Pin=U1_TPS54360-12V-1
+Added Net: Name=NetC1_TPS54360-12V_2
+Added Pin To Net: NetName=NetC5_TPS54360-5VS_1 Pin=C5_TPS54360-5VS-1
+Added Pin To Net: NetName=NetC5_TPS54360-5VS_1 Pin=R2_TPS54360-5VS-2
+Added Pin To Net: NetName=NetC5_TPS54360-5VS_1 Pin=U1_TPS54360-5VS-6
+Added Net: Name=NetC5_TPS54360-5VS_1
+Added Pin To Net: NetName=NetC5_TPS54360-12V_1 Pin=C5_TPS54360-12V-1
+Added Pin To Net: NetName=NetC5_TPS54360-12V_1 Pin=R2_TPS54360-12V-2
+Added Pin To Net: NetName=NetC5_TPS54360-12V_1 Pin=U1_TPS54360-12V-6
+Added Net: Name=NetC5_TPS54360-12V_1
+Added Pin To Net: NetName=NetC6_TPS54360-5VS_1 Pin=C6_TPS54360-5VS-1
+Added Pin To Net: NetName=NetC6_TPS54360-5VS_1 Pin=R2_TPS54360-5VS-1
+Added Net: Name=NetC6_TPS54360-5VS_1
+Added Pin To Net: NetName=NetC6_TPS54360-12V_1 Pin=C6_TPS54360-12V-1
+Added Pin To Net: NetName=NetC6_TPS54360-12V_1 Pin=R2_TPS54360-12V-1
+Added Net: Name=NetC6_TPS54360-12V_1
+Added Pin To Net: NetName=NetR4_TPS54360-5VS_2 Pin=R4_TPS54360-5VS-2
+Added Pin To Net: NetName=NetR4_TPS54360-5VS_2 Pin=U1_TPS54360-5VS-4
+Added Net: Name=NetR4_TPS54360-5VS_2
+Added Pin To Net: NetName=NetR4_TPS54360-12V_2 Pin=R4_TPS54360-12V-2
+Added Pin To Net: NetName=NetR4_TPS54360-12V_2 Pin=U1_TPS54360-12V-4
+Added Net: Name=NetR4_TPS54360-12V_2
+Change Class Name : Old Net Name=Designator2 New Net Name=TPS54360-5VP
+Added Class: Name=TPS54360-5VS
+Added Class: Name=TPS54360-12V
+Added Room: Name=TPS54360-5VP
+Added Room: Name=TPS54360-5VS
+Added Room: Name=TPS54360-12V

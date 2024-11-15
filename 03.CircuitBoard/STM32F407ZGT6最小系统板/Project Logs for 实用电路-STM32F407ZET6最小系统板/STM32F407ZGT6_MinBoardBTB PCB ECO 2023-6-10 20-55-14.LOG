@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NRST Pin=P1-49
+Removed Pin From Net: NetName=NRST Pin=U1-25
+Added Component: Designator=R?(0603R)
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Change Net Name : Old Net Name=NRST New Net Name=NetR2_1
+Added Pin To Net: NetName=NRST Pin=P1-49
+Added Pin To Net: NetName=NRST Pin=R?-1
+Added Pin To Net: NetName=NRST Pin=U1-25
+Added Net: Name=NRST
+Added Member To Class: ClassName=main Member=Component R? 10K

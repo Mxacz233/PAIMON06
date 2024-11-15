@@ -1,0 +1,121 @@
+Added Component: Designator=U1(3535)
+Added Component: Designator=U2(3535)
+Added Component: Designator=U3(3535)
+Added Component: Designator=U4(3535)
+Added Component: Designator=U5(3535)
+Added Component: Designator=U6(3535)
+Added Component: Designator=U7(3535)
+Added Component: Designator=U8(3535)
+Added Component: Designator=U9(3535)
+Added Component: Designator=U10(3535)
+Added Component: Designator=U11(3535)
+Added Component: Designator=U12(3535)
+Added Component: Designator=U13(3535)
+Added Component: Designator=U14(3535)
+Added Component: Designator=U15(3535)
+Added Component: Designator=U16(3535)
+Added Component: Designator=U17(3535)
+Added Component: Designator=U18(3535)
+Added Component: Designator=U19(3535)
+Added Component: Designator=U20(3535)
+Added Pin To Net: NetName=+5 Pin=U1-1
+Added Pin To Net: NetName=+5 Pin=U2-1
+Added Pin To Net: NetName=+5 Pin=U3-1
+Added Pin To Net: NetName=+5 Pin=U4-1
+Added Pin To Net: NetName=+5 Pin=U5-1
+Added Pin To Net: NetName=+5 Pin=U6-1
+Added Pin To Net: NetName=+5 Pin=U7-1
+Added Pin To Net: NetName=+5 Pin=U8-1
+Added Pin To Net: NetName=+5 Pin=U9-1
+Added Pin To Net: NetName=+5 Pin=U10-1
+Added Pin To Net: NetName=+5 Pin=U11-1
+Added Pin To Net: NetName=+5 Pin=U12-1
+Added Pin To Net: NetName=+5 Pin=U13-1
+Added Pin To Net: NetName=+5 Pin=U14-1
+Added Pin To Net: NetName=+5 Pin=U15-1
+Added Pin To Net: NetName=+5 Pin=U16-1
+Added Pin To Net: NetName=+5 Pin=U17-1
+Added Pin To Net: NetName=+5 Pin=U18-1
+Added Pin To Net: NetName=+5 Pin=U19-1
+Added Pin To Net: NetName=+5 Pin=U20-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U16-3
+Added Pin To Net: NetName=GND Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U19-3
+Added Pin To Net: NetName=GND Pin=U20-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U2-4
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=U3-4
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=NetU3_2 Pin=U4-4
+Added Net: Name=NetU3_2
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU4_2 Pin=U5-4
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU5_2 Pin=U5-2
+Added Pin To Net: NetName=NetU5_2 Pin=U6-4
+Added Net: Name=NetU5_2
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Pin To Net: NetName=NetU6_2 Pin=U7-4
+Added Net: Name=NetU6_2
+Added Pin To Net: NetName=NetU7_2 Pin=U7-2
+Added Pin To Net: NetName=NetU7_2 Pin=U8-4
+Added Net: Name=NetU7_2
+Added Pin To Net: NetName=NetU8_2 Pin=U8-2
+Added Pin To Net: NetName=NetU8_2 Pin=U9-4
+Added Net: Name=NetU8_2
+Added Pin To Net: NetName=NetU9_2 Pin=U9-2
+Added Pin To Net: NetName=NetU9_2 Pin=U10-4
+Added Net: Name=NetU9_2
+Added Pin To Net: NetName=NetU10_2 Pin=U10-2
+Added Pin To Net: NetName=NetU10_2 Pin=U11-4
+Added Net: Name=NetU10_2
+Added Pin To Net: NetName=NetU11_2 Pin=U11-2
+Added Pin To Net: NetName=NetU11_2 Pin=U12-4
+Added Net: Name=NetU11_2
+Added Pin To Net: NetName=NetU12_2 Pin=U12-2
+Added Pin To Net: NetName=NetU12_2 Pin=U13-4
+Added Net: Name=NetU12_2
+Added Pin To Net: NetName=NetU13_2 Pin=U13-2
+Added Pin To Net: NetName=NetU13_2 Pin=U14-4
+Added Net: Name=NetU13_2
+Added Pin To Net: NetName=NetU14_2 Pin=U14-2
+Added Pin To Net: NetName=NetU14_2 Pin=U15-4
+Added Net: Name=NetU14_2
+Added Pin To Net: NetName=NetU15_2 Pin=U15-2
+Added Pin To Net: NetName=NetU15_2 Pin=U16-4
+Added Net: Name=NetU15_2
+Added Pin To Net: NetName=NetU16_2 Pin=U16-2
+Added Pin To Net: NetName=NetU16_2 Pin=U17-4
+Added Net: Name=NetU16_2
+Added Pin To Net: NetName=NetU17_2 Pin=U17-2
+Added Pin To Net: NetName=NetU17_2 Pin=U18-4
+Added Net: Name=NetU17_2
+Added Pin To Net: NetName=NetU18_2 Pin=U18-2
+Added Pin To Net: NetName=NetU18_2 Pin=U19-4
+Added Net: Name=NetU18_2
+Added Pin To Net: NetName=NetU19_2 Pin=U19-2
+Added Pin To Net: NetName=NetU19_2 Pin=U20-4
+Added Net: Name=NetU19_2
+Added Class: Name=main
+Added Room: Name=main

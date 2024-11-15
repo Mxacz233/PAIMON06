@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C3_TPS54360-5VP-1
+Removed Pin From Net: NetName=+5VP Pin=C3_TPS54360-5VP-2
+Removed Pin From Net: NetName=GND Pin=C3_TPS54360-5VS-1
+Removed Pin From Net: NetName=+5VS Pin=C3_TPS54360-5VS-2
+Removed Pin From Net: NetName=GND Pin=C3_TPS54360-12V-1
+Removed Pin From Net: NetName=+12V Pin=C3_TPS54360-12V-2
+Change Component Footprint: Designator=C3_TPS54360-5VP Old Footprint=0805C New Footprint=3528B/1210
+Change Component Footprint: Designator=C3_TPS54360-5VS Old Footprint=0805C New Footprint=3528B/1210
+Change Component Footprint: Designator=C3_TPS54360-12V Old Footprint=0805C New Footprint=3528B/1210
+Change Component Comment : Designator=C3_TPS54360-5VP Old Comment=47uF New Comment=Ó„µÁ»›
+Change Component Comment : Designator=C3_TPS54360-5VS Old Comment=47uF New Comment=Ó„µÁ»›
+Change Component Comment : Designator=C3_TPS54360-12V Old Comment=47uF New Comment=Ó„µÁ»›
+Added Pin To Net: NetName=+5VP Pin=C3_TPS54360-5VP-1
+Added Pin To Net: NetName=GND Pin=C3_TPS54360-5VP-2
+Added Pin To Net: NetName=+5VS Pin=C3_TPS54360-5VS-1
+Added Pin To Net: NetName=GND Pin=C3_TPS54360-5VS-2
+Added Pin To Net: NetName=+12V Pin=C3_TPS54360-12V-1
+Added Pin To Net: NetName=GND Pin=C3_TPS54360-12V-2

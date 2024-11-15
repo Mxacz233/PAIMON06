@@ -1,0 +1,10 @@
+Added Component: Designator=U?(SOP-8)
+Added Pin To Net: NetName=DP Pin=U?-1
+Added Pin To Net: NetName=DN Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=+3V3 Pin=U?-5
+Added Pin To Net: NetName=PA10 Pin=U?-6
+Added Pin To Net: NetName=M_TX Pin=U?-7
+Added Pin To Net: NetName=+3V3 Pin=U?-8
+Added Member To Class: ClassName=main Member=Component P? BTB30P
+Added Member To Class: ClassName=main Member=Component U? CH340N

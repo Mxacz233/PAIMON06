@@ -1,0 +1,62 @@
+Added Component: Designator=C1(0603C)
+Added Component: Designator=C2(0603C)
+Added Component: Designator=P1(FPC0.5-WT-10P)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R3(0603R)
+Added Component: Designator=R4(0603R)
+Added Component: Designator=R5(0603R)
+Added Component: Designator=U1(LGA16)
+Added Pin To Net: NetName=+3V3 Pin=C1-2
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=+3V3 Pin=P1-6
+Added Pin To Net: NetName=+3V3 Pin=U1-3
+Added Pin To Net: NetName=+3V3 Pin=U1-11
+Added Net: Name=+3V3
+Added Pin To Net: NetName=CSB_ACCEL Pin=R5-2
+Added Pin To Net: NetName=CSB_ACCEL Pin=U1-14
+Added Net: Name=CSB_ACCEL
+Added Pin To Net: NetName=CSB_GYRO Pin=R4-2
+Added Pin To Net: NetName=CSB_GYRO Pin=U1-5
+Added Net: Name=CSB_GYRO
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Net: Name=GND
+Added Pin To Net: NetName=INT1 Pin=P1-8
+Added Pin To Net: NetName=INT1 Pin=U1-16
+Added Net: Name=INT1
+Added Pin To Net: NetName=INT3 Pin=P1-9
+Added Pin To Net: NetName=INT3 Pin=U1-12
+Added Net: Name=INT3
+Added Pin To Net: NetName=MISO Pin=R3-2
+Added Pin To Net: NetName=MISO Pin=U1-10
+Added Pin To Net: NetName=MISO Pin=U1-15
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=R2-2
+Added Pin To Net: NetName=MOSI Pin=U1-9
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R1-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R2-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R3-1
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=R4-1
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=R5-1
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=SCK Pin=R1-2
+Added Pin To Net: NetName=SCK Pin=U1-8
+Added Net: Name=SCK
+Added Class: Name=main
+Added Room: Name=main

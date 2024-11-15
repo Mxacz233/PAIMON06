@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R5 Old Footprint=0402R New Footprint=0603R
+Change Component Footprint: Designator=R6 Old Footprint=0402R New Footprint=0603R
+Change Component Footprint: Designator=R7 Old Footprint=0402R New Footprint=0603R
+Change Component Footprint: Designator=R8 Old Footprint=0402R New Footprint=0603R
+Change Component Designator: OldDesignator=   NewDesignator=P5
+Added Room: Name=main
+Added Room: Name=TPS54360-5VP
+Added Room: Name=TPS54360-5VS

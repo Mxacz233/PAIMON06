@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-1
+Removed Pin From Net: NetName=NRST Pin=B1-2
+Removed Pin From Net: NetName=NRST Pin=B1-2
+Removed Member From Class: ClassName=main Member=B1
+Change Component Footprint: Designator=C19 Old Footprint=0603C New Footprint=0402C
+Change Component Footprint: Designator=R4 Old Footprint=0603R New Footprint=0402R

@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=A1 Pin=P2-1
+Removed Pin From Net: NetName=A2 Pin=P2-2
+Removed Pin From Net: NetName=A3 Pin=P2-3
+Removed Pin From Net: NetName=A4 Pin=P2-4
+Removed Pin From Net: NetName=B1 Pin=P2-5
+Removed Pin From Net: NetName=B2 Pin=P2-6
+Removed Pin From Net: NetName=B3 Pin=P2-7
+Removed Pin From Net: NetName=B4 Pin=P2-8
+Removed Pin From Net: NetName=C1 Pin=P2-9
+Removed Pin From Net: NetName=C2 Pin=P2-10
+Removed Pin From Net: NetName=C3 Pin=P2-11
+Removed Pin From Net: NetName=C4 Pin=P2-12
+Removed Pin From Net: NetName=D1 Pin=P2-13
+Removed Pin From Net: NetName=D2 Pin=P2-14
+Removed Pin From Net: NetName=D3 Pin=P2-15
+Removed Pin From Net: NetName=D4 Pin=P2-16
+Removed Pin From Net: NetName=CAN_H Pin=P2-17
+Removed Pin From Net: NetName=CAN_L Pin=P2-18
+Removed Pin From Net: NetName=GND Pin=P2-19
+Removed Pin From Net: NetName=LED_Din Pin=P2-20
+Removed Member From Class: ClassName=main Member=P2
+Change Component Footprint: Designator=P11 Old Footprint=XH2.54_AW_1*4 New Footprint=GH1.25-PW-1*4
+Change Component Footprint: Designator=P12 Old Footprint=XH2.54_AW_1*4 New Footprint=GH1.25-PW-1*4
+Change Component Footprint: Designator=P13 Old Footprint=XH2.54_AW_1*4 New Footprint=GH1.25-PW-1*4
+Change Component Footprint: Designator=P14 Old Footprint=XH2.54_AW_1*4 New Footprint=GH1.25-PW-1*4
+Change Component Comment : Designator=P11 Old Comment=XH2.54 New Comment=GH1.25-4P
+Change Component Comment : Designator=P12 Old Comment=XH2.54 New Comment=GH1.25-4P
+Change Component Comment : Designator=P13 Old Comment=XH2.54 New Comment=GH1.25-4P
+Change Component Comment : Designator=P14 Old Comment=XH2.54 New Comment=GH1.25-4P
+Added Component: Designator=P15(GH1.25-PW-1*4)
+Added Component: Designator=P16(FPC0.5-WT-24P)
+Added Pin To Net: NetName=+5V-S Pin=P15-1
+Added Pin To Net: NetName=GND Pin=P15-2
+Added Pin To Net: NetName=A1 Pin=P16-1
+Added Pin To Net: NetName=A2 Pin=P16-2
+Added Pin To Net: NetName=A3 Pin=P16-3
+Added Pin To Net: NetName=A4 Pin=P16-4
+Added Pin To Net: NetName=B1 Pin=P16-5
+Added Pin To Net: NetName=B2 Pin=P16-6
+Added Pin To Net: NetName=B3 Pin=P16-7
+Added Pin To Net: NetName=B4 Pin=P16-8
+Added Pin To Net: NetName=C1 Pin=P16-9
+Added Pin To Net: NetName=C2 Pin=P16-10
+Added Pin To Net: NetName=C3 Pin=P16-11
+Added Pin To Net: NetName=C4 Pin=P16-12
+Added Pin To Net: NetName=D1 Pin=P16-13
+Added Pin To Net: NetName=D2 Pin=P16-14
+Added Pin To Net: NetName=D3 Pin=P16-15
+Added Pin To Net: NetName=D4 Pin=P16-16
+Added Pin To Net: NetName=CAN_H Pin=P16-17
+Added Pin To Net: NetName=CAN_L Pin=P16-18
+Added Pin To Net: NetName=GND Pin=P16-19
+Added Pin To Net: NetName=LED_Din Pin=P16-20
+Added Pin To Net: NetName=GND Pin=P16-21
+Added Pin To Net: NetName=GND Pin=P16-24
+Added Pin To Net: NetName=U_RX Pin=P15-3
+Added Pin To Net: NetName=U_RX Pin=P16-23
+Added Net: Name=U_RX
+Added Pin To Net: NetName=U_TX Pin=P15-4
+Added Pin To Net: NetName=U_TX Pin=P16-22
+Added Net: Name=U_TX
+Added Member To Class: ClassName=main Member=Component P15 GH1.25-4P
+Added Member To Class: ClassName=main Member=Component P16 FPC24P

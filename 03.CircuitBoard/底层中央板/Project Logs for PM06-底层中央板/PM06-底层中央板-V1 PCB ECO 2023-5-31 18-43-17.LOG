@@ -1,0 +1,4 @@
+Added Component: Designator=J5(XT30-PW-M)
+Added Pin To Net: NetName=+24V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Member To Class: ClassName=main Member=Component J5 XT

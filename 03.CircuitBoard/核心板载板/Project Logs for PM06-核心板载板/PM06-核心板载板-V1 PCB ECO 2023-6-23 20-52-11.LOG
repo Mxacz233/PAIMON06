@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=CAN2_MRX Pin=P?-1
+Removed Pin From Net: NetName=B4 Pin=P?-2
+Removed Pin From Net: NetName=GND Pin=P?-2
+Removed Pin From Net: NetName=B3 Pin=P?-3
+Removed Pin From Net: NetName=LED_Din Pin=P?-3
+Removed Pin From Net: NetName=B2 Pin=P?-4
+Removed Pin From Net: NetName=PD8 Pin=P?-4
+Removed Pin From Net: NetName=B1 Pin=P?-5
+Removed Pin From Net: NetName=A4 Pin=P?-6
+Removed Pin From Net: NetName=A3 Pin=P?-7
+Removed Pin From Net: NetName=A2 Pin=P?-8
+Removed Pin From Net: NetName=A1 Pin=P?-9
+Removed Pin From Net: NetName=INT3 Pin=P?-11
+Removed Pin From Net: NetName=CSB_ACCEL Pin=P?-12
+Removed Pin From Net: NetName=MOSI Pin=P?-13
+Removed Pin From Net: NetName=M_TX Pin=P?-14
+Removed Pin From Net: NetName=PA5 Pin=P?-14
+Removed Pin From Net: NetName=CAN1_MRX Pin=P?-15
+Removed Pin From Net: NetName=PA3 Pin=P?-15
+Removed Pin From Net: NetName=PA13 Pin=P?-16
+Removed Pin From Net: NetName=NRST Pin=P?-19
+Removed Pin From Net: NetName=PE3 Pin=P?-28
+Removed Pin From Net: NetName=PE0 Pin=P?-30
+Removed Pin From Net: NetName=PE1 Pin=P?-31
+Removed Pin From Net: NetName=PE2 Pin=P?-33
+Removed Pin From Net: NetName=PF10 Pin=P?-42
+Removed Pin From Net: NetName=PA14 Pin=P?-45
+Removed Pin From Net: NetName=CAN1_MTX Pin=P?-46
+Removed Pin From Net: NetName=PA2 Pin=P?-46
+Removed Pin From Net: NetName=PA4 Pin=P?-47
+Removed Pin From Net: NetName=PA10 Pin=P?-47
+Removed Pin From Net: NetName=MISO Pin=P?-48
+Removed Pin From Net: NetName=CSB_GYRO Pin=P?-49
+Removed Pin From Net: NetName=INT1 Pin=P?-50
+Removed Pin From Net: NetName=PF12 Pin=P?-52
+Removed Pin From Net: NetName=D1 Pin=P?-53
+Removed Pin From Net: NetName=D2 Pin=P?-54
+Removed Pin From Net: NetName=D3 Pin=P?-55
+Removed Pin From Net: NetName=D4 Pin=P?-56
+Removed Pin From Net: NetName=C4 Pin=P?-57
+Removed Pin From Net: NetName=M_RX Pin=P?-57
+Removed Pin From Net: NetName=C3 Pin=P?-58
+Removed Pin From Net: NetName=PB15 Pin=P?-58
+Removed Pin From Net: NetName=C2 Pin=P?-59
+Removed Pin From Net: NetName=CAN2_MTX Pin=P?-59
+Removed Pin From Net: NetName=C1 Pin=P?-60
+Added Pin To Net: NetName=C1 Pin=P?-1
+Added Pin To Net: NetName=C2 Pin=P?-2
+Added Pin To Net: NetName=CAN2_MTX Pin=P?-2
+Added Pin To Net: NetName=C3 Pin=P?-3
+Added Pin To Net: NetName=PB15 Pin=P?-3
+Added Pin To Net: NetName=C4 Pin=P?-4
+Added Pin To Net: NetName=M_RX Pin=P?-4
+Added Pin To Net: NetName=D4 Pin=P?-5
+Added Pin To Net: NetName=D3 Pin=P?-6
+Added Pin To Net: NetName=D2 Pin=P?-7
+Added Pin To Net: NetName=D1 Pin=P?-8
+Added Pin To Net: NetName=PF12 Pin=P?-9
+Added Pin To Net: NetName=INT1 Pin=P?-11
+Added Pin To Net: NetName=CSB_GYRO Pin=P?-12
+Added Pin To Net: NetName=MISO Pin=P?-13
+Added Pin To Net: NetName=PA4 Pin=P?-14
+Added Pin To Net: NetName=PA10 Pin=P?-14
+Added Pin To Net: NetName=CAN1_MTX Pin=P?-15
+Added Pin To Net: NetName=PA2 Pin=P?-15
+Added Pin To Net: NetName=PA14 Pin=P?-16
+Added Pin To Net: NetName=PF10 Pin=P?-19
+Added Pin To Net: NetName=PE2 Pin=P?-28
+Added Pin To Net: NetName=PE1 Pin=P?-30
+Added Pin To Net: NetName=PE0 Pin=P?-31
+Added Pin To Net: NetName=PE3 Pin=P?-33
+Added Pin To Net: NetName=NRST Pin=P?-42
+Added Pin To Net: NetName=PA13 Pin=P?-45
+Added Pin To Net: NetName=CAN1_MRX Pin=P?-46
+Added Pin To Net: NetName=PA3 Pin=P?-46
+Added Pin To Net: NetName=M_TX Pin=P?-47
+Added Pin To Net: NetName=PA5 Pin=P?-47
+Added Pin To Net: NetName=MOSI Pin=P?-48
+Added Pin To Net: NetName=CSB_ACCEL Pin=P?-49
+Added Pin To Net: NetName=INT3 Pin=P?-50
+Added Pin To Net: NetName=A1 Pin=P?-52
+Added Pin To Net: NetName=A2 Pin=P?-53
+Added Pin To Net: NetName=A3 Pin=P?-54
+Added Pin To Net: NetName=A4 Pin=P?-55
+Added Pin To Net: NetName=B1 Pin=P?-56
+Added Pin To Net: NetName=B2 Pin=P?-57
+Added Pin To Net: NetName=PD8 Pin=P?-57
+Added Pin To Net: NetName=B3 Pin=P?-58
+Added Pin To Net: NetName=LED_Din Pin=P?-58
+Added Pin To Net: NetName=B4 Pin=P?-59
+Added Pin To Net: NetName=GND Pin=P?-59
+Added Pin To Net: NetName=CAN2_MRX Pin=P?-60
+Change Net Name : Old Net Name=PA0 New Net Name=PA1
+Change Net Name : Old Net Name=PA1 New Net Name=PA0
+Change Net Name : Old Net Name=PA8 New Net Name=PC9
+Change Net Name : Old Net Name=PA15 New Net Name=PC10
+Change Net Name : Old Net Name=PB2 New Net Name=PF11
+Change Net Name : Old Net Name=PB3 New Net Name=PG15
+Change Net Name : Old Net Name=PB4 New Net Name=PB5
+Change Net Name : Old Net Name=PB5 New Net Name=PB4
+Change Net Name : Old Net Name=PB6 New Net Name=PB7
+Change Net Name : Old Net Name=PB7 New Net Name=PB6
+Change Net Name : Old Net Name=PB8 New Net Name=PB9
+Change Net Name : Old Net Name=PB9 New Net Name=PB8
+Change Net Name : Old Net Name=PC0 New Net Name=PC1
+Change Net Name : Old Net Name=PC1 New Net Name=PC0
+Change Net Name : Old Net Name=PC2 New Net Name=PC3
+Change Net Name : Old Net Name=PC3 New Net Name=PC2
+Change Net Name : Old Net Name=PC6 New Net Name=PG8
+Change Net Name : Old Net Name=PC7 New Net Name=PC8
+Change Net Name : Old Net Name=PC8 New Net Name=PC7
+Change Net Name : Old Net Name=PC9 New Net Name=PA8
+Change Net Name : Old Net Name=PC10 New Net Name=PA15
+Change Net Name : Old Net Name=PC11 New Net Name=PC12
+Change Net Name : Old Net Name=PC12 New Net Name=PC11
+Change Net Name : Old Net Name=PC13 New Net Name=PE6
+Change Net Name : Old Net Name=PC14 New Net Name=PC15
+Change Net Name : Old Net Name=PC15 New Net Name=PC14
+Change Net Name : Old Net Name=PD0 New Net Name=PD1
+Change Net Name : Old Net Name=PD1 New Net Name=PD0
+Change Net Name : Old Net Name=PD2 New Net Name=PD3
+Change Net Name : Old Net Name=PD3 New Net Name=PD2
+Change Net Name : Old Net Name=PD4 New Net Name=PD5
+Change Net Name : Old Net Name=PD5 New Net Name=PD4
+Change Net Name : Old Net Name=PD6 New Net Name=PD7
+Change Net Name : Old Net Name=PD7 New Net Name=PD6
+Change Net Name : Old Net Name=PD10 New Net Name=PD11
+Change Net Name : Old Net Name=PD11 New Net Name=PD10
+Change Net Name : Old Net Name=PD12 New Net Name=PD13
+Change Net Name : Old Net Name=PD13 New Net Name=PD12
+Change Net Name : Old Net Name=PD14 New Net Name=PD15
+Change Net Name : Old Net Name=PD15 New Net Name=PD14
+Change Net Name : Old Net Name=PE4 New Net Name=PE5
+Change Net Name : Old Net Name=PE5 New Net Name=PE4
+Change Net Name : Old Net Name=PE6 New Net Name=PC13
+Change Net Name : Old Net Name=PF0 New Net Name=PF1
+Change Net Name : Old Net Name=PF1 New Net Name=PF0
+Change Net Name : Old Net Name=PF2 New Net Name=PF3
+Change Net Name : Old Net Name=PF3 New Net Name=PF2
+Change Net Name : Old Net Name=PF4 New Net Name=PF5
+Change Net Name : Old Net Name=PF5 New Net Name=PF4
+Change Net Name : Old Net Name=PF6 New Net Name=PF7
+Change Net Name : Old Net Name=PF7 New Net Name=PF6
+Change Net Name : Old Net Name=PF8 New Net Name=PF9
+Change Net Name : Old Net Name=PF9 New Net Name=PF8
+Change Net Name : Old Net Name=PF11 New Net Name=PB2
+Change Net Name : Old Net Name=PG2 New Net Name=PG3
+Change Net Name : Old Net Name=PG3 New Net Name=PG2
+Change Net Name : Old Net Name=PG4 New Net Name=PG5
+Change Net Name : Old Net Name=PG5 New Net Name=PG4
+Change Net Name : Old Net Name=PG6 New Net Name=PG7
+Change Net Name : Old Net Name=PG7 New Net Name=PG6
+Change Net Name : Old Net Name=PG8 New Net Name=PC6
+Change Net Name : Old Net Name=PG9 New Net Name=PG10
+Change Net Name : Old Net Name=PG10 New Net Name=PG9
+Change Net Name : Old Net Name=PG11 New Net Name=PG12
+Change Net Name : Old Net Name=PG12 New Net Name=PG11
+Change Net Name : Old Net Name=PG13 New Net Name=PG14
+Change Net Name : Old Net Name=PG14 New Net Name=PG13
+Change Net Name : Old Net Name=PG15 New Net Name=PB3
+Added Member To Class: ClassName=main Member=Component P? BTB30P

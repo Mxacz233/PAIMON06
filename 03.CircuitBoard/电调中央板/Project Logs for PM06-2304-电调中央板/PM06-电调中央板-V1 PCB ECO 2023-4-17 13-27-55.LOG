@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Added Component: Designator=J5(XT30-UPB-F)
+Added Component: Designator=J6(XT30-UPB-F)
+Added Component: Designator=J7(XT30-UPB-F)
+Added Component: Designator=J8(XT30-UPB-F)
+Added Component: Designator=P4(GH1.25-PW-1*2)
+Added Component: Designator=P5(GH1.25-PW-1*2)
+Added Component: Designator=P6(GH1.25-PW-1*2)
+Added Component: Designator=P7(GH1.25-PW-1*2)
+Added Component: Designator=P8(GH1.25-PW-1*3)
+Added Pin To Net: NetName=VIN Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=VIN Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=VIN Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=VIN Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=CAN_P Pin=P4-1
+Added Pin To Net: NetName=CAN_N Pin=P4-2
+Added Pin To Net: NetName=CAN_P Pin=P5-1
+Added Pin To Net: NetName=CAN_N Pin=P5-2
+Added Pin To Net: NetName=CAN_P Pin=P6-1
+Added Pin To Net: NetName=CAN_N Pin=P6-2
+Added Pin To Net: NetName=CAN_P Pin=P7-1
+Added Pin To Net: NetName=CAN_N Pin=P7-2
+Added Pin To Net: NetName=CAN_P Pin=P8-1
+Added Pin To Net: NetName=CAN_N Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Member To Class: ClassName=main Member=Component J4 XT30_立插_公
+Added Member To Class: ClassName=main Member=Component J5 XT30_立插_公
+Added Member To Class: ClassName=main Member=Component J6 XT30_立插_公
+Added Member To Class: ClassName=main Member=Component J7 XT30_立插_公
+Added Member To Class: ClassName=main Member=Component J8 XT30_立插_公
+Added Member To Class: ClassName=main Member=Component P3 GH1.25_卧贴
+Added Member To Class: ClassName=main Member=Component P4 GH1.25_卧贴
+Added Member To Class: ClassName=main Member=Component P5 GH1.25_卧贴
+Added Member To Class: ClassName=main Member=Component P6 GH1.25_卧贴
+Added Member To Class: ClassName=main Member=Component P7 GH1.25_卧贴
+Added Member To Class: ClassName=main Member=Component P8 接插件1*3

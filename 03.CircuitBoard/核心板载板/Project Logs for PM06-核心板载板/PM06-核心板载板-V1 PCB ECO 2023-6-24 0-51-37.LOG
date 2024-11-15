@@ -1,0 +1,5 @@
+Added Component: Designator=D?(SMA)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=+5V Pin=D?-2
+Added Member To Class: ClassName=main Member=Component D? SMAJ5.0A
+Added Member To Class: ClassName=main Member=Component P? BTB30P

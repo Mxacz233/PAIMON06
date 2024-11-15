@@ -1,0 +1,35 @@
+Added Component: Designator=U26(3535)
+Added Component: Designator=U27(3535)
+Added Component: Designator=U28(3535)
+Added Component: Designator=U29(3535)
+Added Component: Designator=U30(3535)
+Added Pin To Net: NetName=+5 Pin=U26-1
+Added Pin To Net: NetName=GND Pin=U26-3
+Added Pin To Net: NetName=+5 Pin=U27-1
+Added Pin To Net: NetName=GND Pin=U27-3
+Added Pin To Net: NetName=+5 Pin=U28-1
+Added Pin To Net: NetName=GND Pin=U28-3
+Added Pin To Net: NetName=+5 Pin=U29-1
+Added Pin To Net: NetName=GND Pin=U29-3
+Added Pin To Net: NetName=+5 Pin=U30-1
+Added Pin To Net: NetName=GND Pin=U30-3
+Added Pin To Net: NetName=NetU25_2 Pin=U25-2
+Added Pin To Net: NetName=NetU25_2 Pin=U26-4
+Added Net: Name=NetU25_2
+Added Pin To Net: NetName=NetU26_2 Pin=U26-2
+Added Pin To Net: NetName=NetU26_2 Pin=U27-4
+Added Net: Name=NetU26_2
+Added Pin To Net: NetName=NetU27_2 Pin=U27-2
+Added Pin To Net: NetName=NetU27_2 Pin=U28-4
+Added Net: Name=NetU27_2
+Added Pin To Net: NetName=NetU28_2 Pin=U28-2
+Added Pin To Net: NetName=NetU28_2 Pin=U29-4
+Added Net: Name=NetU28_2
+Added Pin To Net: NetName=NetU29_2 Pin=U29-2
+Added Pin To Net: NetName=NetU29_2 Pin=U30-4
+Added Net: Name=NetU29_2
+Added Member To Class: ClassName=main Member=Component U26 WS2812
+Added Member To Class: ClassName=main Member=Component U27 WS2812
+Added Member To Class: ClassName=main Member=Component U28 WS2812
+Added Member To Class: ClassName=main Member=Component U29 WS2812
+Added Member To Class: ClassName=main Member=Component U30 WS2812

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Project\PCB\PM06-ºËÐÄ°åÔØ°å\PM06-ºËÐÄ°åÔØ°å-V1.PcbDoc
+Date         : 2023/7/27
+Time         : 14:19:37
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 129
+    Connections routed, 129
+    Connections remaining, 0
+count : 4

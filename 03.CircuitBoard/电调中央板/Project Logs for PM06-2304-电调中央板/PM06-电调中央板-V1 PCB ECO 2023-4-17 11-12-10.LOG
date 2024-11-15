@@ -1,0 +1,31 @@
+Added Component: Designator=D1(SMA)
+Added Component: Designator=J1(XT60-PT-M)
+Added Component: Designator=J2(XT30-UPB-F)
+Added Component: Designator=J3(XT30-UPB-F)
+Added Component: Designator=LED1(0603D)
+Added Component: Designator=P1(GH1.25-PW-1*2)
+Added Component: Designator=P2(GH1.25-PW-1*2)
+Added Component: Designator=R1(0603R)
+Added Pin To Net: NetName=CAN_N Pin=P1-2
+Added Pin To Net: NetName=CAN_N Pin=P2-2
+Added Net: Name=CAN_N
+Added Pin To Net: NetName=CAN_P Pin=P1-1
+Added Pin To Net: NetName=CAN_P Pin=P2-1
+Added Net: Name=CAN_P
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=VIN Pin=D1-2
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=J2-1
+Added Pin To Net: NetName=VIN Pin=J3-1
+Added Pin To Net: NetName=VIN Pin=R1-1
+Added Net: Name=VIN
+Added Class: Name=main
+Added Differential Pair: Name=CAN

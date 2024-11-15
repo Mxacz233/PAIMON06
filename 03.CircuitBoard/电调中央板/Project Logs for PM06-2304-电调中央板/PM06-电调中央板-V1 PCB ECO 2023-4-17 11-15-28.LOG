@@ -1,0 +1,8 @@
+Added Component: Designator=J3(XT30-UPB-F)
+Added Component: Designator=P2(GH1.25-PW-1*2)
+Added Pin To Net: NetName=VIN Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=CAN_P Pin=P2-1
+Added Pin To Net: NetName=CAN_N Pin=P2-2
+Added Member To Class: ClassName=main Member=Component J3 XT30_Á¢²å_¹«
+Added Member To Class: ClassName=main Member=Component P2 GH1.25_ÎÔÌù

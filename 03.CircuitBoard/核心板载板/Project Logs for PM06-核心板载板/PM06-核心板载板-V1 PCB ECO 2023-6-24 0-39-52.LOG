@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=*1-13
+Removed Pin From Net: NetName=GND Pin=*1-14
+Removed Pin From Net: NetName=GND Pin=*1-15
+Removed Pin From Net: NetName=GND Pin=*1-16
+Removed Pin From Net: NetName=GND Pin=*1-A1B12
+Removed Pin From Net: NetName=+5V Pin=*1-A4B9
+Removed Pin From Net: NetName=DP Pin=*1-A6
+Removed Pin From Net: NetName=DN Pin=*1-A7
+Removed Pin From Net: NetName=GND Pin=*1-B1A12
+Removed Pin From Net: NetName=+5V Pin=*1-B4A9
+Removed Pin From Net: NetName=DP Pin=*1-B6
+Removed Pin From Net: NetName=DN Pin=*1-B7
+Removed Pin From Net: NetName=GND Pin=*2-13
+Removed Pin From Net: NetName=GND Pin=*2-14
+Removed Pin From Net: NetName=GND Pin=*2-15
+Removed Pin From Net: NetName=GND Pin=*2-16
+Removed Pin From Net: NetName=GND Pin=*2-A1B12
+Removed Pin From Net: NetName=+5V Pin=*2-A4B9
+Removed Pin From Net: NetName=GND Pin=*2-B1A12
+Removed Pin From Net: NetName=+5V Pin=*2-B4A9
+Removed Member From Class: ClassName=main Member=*1
+Removed Member From Class: ClassName=main Member=*2
+Added Component: Designator=*?(USB-TypeC-PW-F-16P)
+Added Component: Designator=*?(USB-TypeC-PW-F-16P)
+Added Pin To Net: NetName=GND Pin=*?-13
+Added Pin To Net: NetName=GND Pin=*?-13
+Added Pin To Net: NetName=GND Pin=*?-14
+Added Pin To Net: NetName=GND Pin=*?-14
+Added Pin To Net: NetName=GND Pin=*?-15
+Added Pin To Net: NetName=GND Pin=*?-15
+Added Pin To Net: NetName=GND Pin=*?-16
+Added Pin To Net: NetName=GND Pin=*?-16
+Added Pin To Net: NetName=GND Pin=*?-A1B12
+Added Pin To Net: NetName=GND Pin=*?-A1B12
+Added Pin To Net: NetName=+5V Pin=*?-A4B9
+Added Pin To Net: NetName=+5V Pin=*?-A4B9
+Added Pin To Net: NetName=DP Pin=*?-A6
+Added Pin To Net: NetName=DN Pin=*?-A7
+Added Pin To Net: NetName=GND Pin=*?-B1A12
+Added Pin To Net: NetName=GND Pin=*?-B1A12
+Added Pin To Net: NetName=+5V Pin=*?-B4A9
+Added Pin To Net: NetName=+5V Pin=*?-B4A9
+Added Pin To Net: NetName=DP Pin=*?-B6
+Added Pin To Net: NetName=DN Pin=*?-B7
+Added Member To Class: ClassName=main Member=Component *? TpCŒ‘ Ω16P
+Added Member To Class: ClassName=main Member=Component *? TpCŒ‘ Ω16P
+Added Member To Class: ClassName=main Member=Component P? BTB30P

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DP Pin=*1-A6
+Removed Pin From Net: NetName=DN Pin=*1-A7
+Removed Pin From Net: NetName=DP Pin=*1-B6
+Removed Pin From Net: NetName=DN Pin=*1-B7
+Added Pin To Net: NetName=DP Pin=*2-A6
+Added Pin To Net: NetName=DN Pin=*2-A7
+Added Pin To Net: NetName=DP Pin=*2-B6
+Added Pin To Net: NetName=DN Pin=*2-B7
+Added Member To Class: ClassName=main Member=Component *1 TpCŒ‘ Ω16P
+Added Member To Class: ClassName=main Member=Component *2 TpCŒ‘ Ω16P
+Added Member To Class: ClassName=main Member=Component P? BTB30P
