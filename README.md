@@ -21,25 +21,25 @@
 
 此项目是电子科技大学应用电子科技协会第十一届全国大学生光电设计竞赛（2023年）参赛作品，在西南赛区取得了第一名的成绩并在哈尔滨工业大学主办的全国总决赛中取得了全国一等奖的成绩。此项目包含了我们的全部的电路工程、全车建模、包含开发历史的软件与固件等信息。
 ## 🌟 团队成员
-<table align="center">
+<table border="0" style="border:none; margin-left:0;">
   <tr>
     <td align="center">
       <a href="https://github.com/RC-Wu">
-        <img src="https://github.com/RC-Wu.png" width="100px" alt="RC-Wu Avatar"/>
+        <img src="https://github.com/RC-Wu.png" width="50px" alt="RC-Wu Avatar" style="border:none;"/>
         <br />
         <b>RC-Wu</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Mxacz233">
-        <img src="https://github.com/Mxacz233.png" width="100px" alt="Mxacz233 Avatar"/>
+        <img src="https://github.com/Mxacz233.png" width="50px" alt="Mxacz233 Avatar" style="border:none;"/>
         <br />
         <b>Mxacz233</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/JimHans">
-        <img src="https://github.com/JimHans.png" width="100px" alt="JimHans Avatar"/>
+        <img src="https://github.com/JimHans.png" width="50px" alt="JimHans Avatar" style="border:none;"/>
         <br />
         <b>JimHans</b>
       </a>
