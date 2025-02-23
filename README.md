@@ -123,9 +123,17 @@
 - 西南赛区第二轮对抗赛：对手车辆在第一轮对抗赛中出现问题，弃权。
 - 全国赛第一轮对抗赛：对方为国防科技大学的队伍，对方车辆在直线行进速度优于我方，但转弯与识别速度不及我方，同时对方车辆在行进中出现失控，而后导致双方纠缠，最终我方险胜。
 ## 🛠️ 作品介绍
-<div style="flex: 1; text-align: center;">
+<!-- <div style="flex: 1; text-align: center;">
   <img src="./06.Images/部件图.png"style="width: 25%; max-width: 100%;">
-</div>
+</div> -->
+<div style="flex: 1; text-align: center;">
+  <table style="width:100%; border-collapse: collapse;">
+    <tr>
+      <style="width:50%; text-align:center; padding:5px;">
+        <img src="./06.Images/部件图.png" alt="部件图" style="width:50%; aspect-ratio:1/1; object-fit: cover;"><br>
+        <div>部件图</div>
+    </tr>
+
 
 1. 云台：由一个YAW轴云台电机、含碳纤维PLA打印法兰盘与支架、摄像头、摄像头补光灯小板组成，能够让摄像头始终朝向行进方向，便于第一时间识别。
 2. 运动组：由四组运动单元组成，每组运动单元分别有麦克纳姆轮、M2006电机、C610电调各一个。集成后的运动单元使用XT30 2+2接口引出并连接至底层分电板。
@@ -161,7 +169,7 @@
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
         <img src="./06.Images/二代.jpg" alt="第二代，增加了理线，定制集成单元和原神贴纸" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
-        <div>第二代，理线，集成单元和原神贴纸</div>
+        <div>第二代，理线、集成单元、原神贴纸</div>
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
         <img src="./06.Images/摄像头锁定.gif" alt="二代角度摄像头锁定测试" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
@@ -174,8 +182,8 @@
         <div>省赛场地</div>
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
-        <img src="./06.Images/定妆照.png" alt="第三代，更换了碳纤维底板、黑色打印件并统一喷了黑色漆" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
-        <div>第三代，更换了碳纤维底板、黑色打印件并统一喷了黑色漆</div>
+        <img src="./06.Images/定妆照.png" alt="第三代，碳板、黑色打印件并统一喷了黑色漆" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
+        <div>第三代，碳板、黑色件、黑色漆</div>
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
         <img src="./06.Images/封面.png" alt="bilibili视频封面" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
@@ -209,6 +217,5 @@
         <img src="./06.Images/圣索菲亚.png" alt="圣索菲亚大教堂" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
         <div>圣索菲亚大教堂</div>
       </td>
-      <td style="width:33.33%;"></td>
     </tr>
   </table>
