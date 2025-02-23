@@ -84,7 +84,7 @@
   |红色|黄色圆形|红方假宝藏|1|
   |蓝色|黄色圆形|蓝方真宝藏|3|
   |蓝色|绿色三角形|蓝方假宝藏|1|
-  <div style="display: flex; justify-content: space-around; align-items: stretch;">
+  <!-- <div style="display: flex; justify-content: space-around; align-items: stretch;">
     <div style="text-align: center; flex: 1;">
       <img src="./06.Images/场地.png" style="height: 200px; width: auto; max-width: 100%; object-fit: cover;">
       <div style="margin-top: 10px;">场地</div>
@@ -97,7 +97,26 @@
       <img src="./06.Images/宝藏图.png" style="height: 200px; width: auto; max-width: 100%; object-fit: cover;">
       <div style="margin-top: 10px;">宝藏</div>
     </div>
-  </div>
+  </div> -->
+
+<div style="flex: 1; text-align: center;">
+  <table style="width:100%; border-collapse: collapse;">
+  <td style="width:33.33%; text-align:center; padding:5px;">
+    <img src="./06.Images/场地.png" alt="场地" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
+    <div>场地</div>
+  </td>
+  <td style="width:33.33%; text-align:center; padding:5px;">
+    <img src="./06.Images/藏宝图.png" alt="藏宝图" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
+    <div>藏宝图</div>
+  </td>
+  <td style="width:33.33%; text-align:center; padding:5px;">
+    <img src="./06.Images/宝藏图.png" alt="宝藏" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
+    <div>宝藏</div>
+  </td>
+  </table>
+</div>
+
+
 #### 参赛车辆
 参赛车辆有如下要求
 - 尺寸合规

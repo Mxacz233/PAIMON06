@@ -17,14 +17,14 @@ def process_image(file_path, output_dir):
         if getattr(img, "is_animated", False):
             frames = []
             durations = []
-            # 遍历每一帧
+            # Process each frame
             for frame in ImageSequence.Iterator(img):
-                # 统一转为 RGBA 来处理透明通道
+                # Convert to RGBA for transparent channel support
                 frame = frame.convert("RGBA")
                 cropped_frame = crop_center(frame)
-                frames.append(cropped_frame)
+                resized_frame = cropped_frame.resize((500, 500), Image.LANCZOS)
+                frames.append(resized_frame)
                 durations.append(frame.info.get("duration", 100))
-            # 使用第一帧作为起始帧，其他帧依次追加，保持动画参数
             frames[0].save(output_path,
                            save_all=True,
                            append_images=frames[1:],
@@ -33,7 +33,8 @@ def process_image(file_path, output_dir):
                            disposal=2)
         else:
             cropped = crop_center(img)
-            cropped.save(output_path)
+            resized = cropped.resize((500, 500), Image.LANCZOS)
+            resized.save(output_path)
         print(f"Processed: {file_path}")
     except Exception as e:
         print(f"Error processing {file_path}: {e}")
@@ -48,7 +49,7 @@ def main(directory):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="将指定目录下的图像从中心裁剪成 1:1")
+    parser = argparse.ArgumentParser(description="将指定目录下的图像从中心裁剪成 1:1 并调整尺寸至500*500")
     parser.add_argument("directory", type=str, help="图像所在的目录路径")
     args = parser.parse_args()
     main(args.directory)
