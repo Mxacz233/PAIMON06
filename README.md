@@ -189,7 +189,7 @@
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
         <img src="./06.Images/二代.jpg" alt="第二代，增加了理线，定制集成单元和原神贴纸" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
-        <div>第二代，理线、集成单元、原神贴纸</div>
+        <div>第二代，理线、集成、原神</div>
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
         <img src="./06.Images/摄像头锁定.gif" alt="二代角度摄像头锁定测试" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
