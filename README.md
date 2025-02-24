@@ -4,7 +4,8 @@
 
 # PAIMON06: 高性能迷宫车
 [![](https://img.shields.io/badge/演示视频-Bilibili-%23FF8CB0)](https://www.bilibili.com/video/BV1wp4y1N74w/)
-[![](https://img.shields.io/badge/决赛VLOG：对手视角-Bilibili-%23FF8CB0)](https://www.bilibili.com/video/BV1WP411W7m1/)
+[![](https://img.shields.io/badge/半决赛(vs国防科技大学)-点击播放-blue)](./06.Images/semifinals.mp4)
+[![](https://img.shields.io/badge/决赛(vs广州大学)(对手视角)-Bilibili-%23FF8CB0)](https://www.bilibili.com/video/BV1WP411W7m1/)
 [![](https://img.shields.io/badge/获奖新闻-电子科技大学-%23F08300)](https://new1.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=90266)
 [![](https://img.shields.io/badge/获奖新闻-竞赛平台-%23004098)](http://gd.p.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents)
 
@@ -45,9 +46,15 @@
 ## 🗃️ 文件介绍
 文件介绍部分将简短介绍项目的工程组成，并给出一份功能表格方便查阅。
 ### 01.Software/软件部分：
-软件部分是
+由[JimHans](https://github.com/JimHans)同学开发，软件部分是多个涉及决策的`Python`脚本，部署在Rock PI 4B上。
+|程序|功能|
+|:-:|:-:|
+|点位识别|通过摄像头识别藏宝图中的宝藏点位|
+|路径规划|根据识别的宝藏点位规划路径|
+|动态路径更新|根据宝藏分布规律在运行中优化路径|
+|静态化预编译|基于Cython的预编译|
 ### 02.Firmware/固件部分：
-固件部分是利用`CubeMX`和`KeilV5`联合开发的STM32固件，是一个完整工程。固件负责将上位机的决策信息传递给执行机构。
+由[RC-Wu](https://github.com/RC-Wu)同学开发，固件部分是利用`CubeMX`和`KeilV5`联合开发的STM32固件，是一个完整工程。固件负责将上位机的决策信息传递给执行机构。
 |品牌与型号|类型|内容|
 |:-:|:-:|:-:|
 |DJI M2006电机|无刷电机|CAN通信驱动|
@@ -56,7 +63,7 @@
 |NOOPLOOP激光测距|激光测距|UART-DMA通信驱动|
 |-|通信协议|上下位机UART-DMA通信协议|
 ### 03.CircuitBoard/电路部分：
-电路部分是利用`Altium Designer`设计的电路板，是五个完整工程，包含核心小板、陀螺仪小板、主板、电源板、分电板五个工程。电路部分均是高度定制化的PCB，为整车集成度提供了大量的贡献。
+由[Mxacz233](https://github.com/JimHans)同学开发，电路部分是利用`Altium Designer`设计的电路板，是五个完整工程，包含核心小板、陀螺仪小板、主板、电源板、分电板五个工程。电路部分均是高度定制化的PCB，为整车集成度提供了大量的贡献。
 |品牌与型号|类型|内容|
 |:-:|:-:|:-:|
 |STM32F407|核心小板|电路设计方案|
@@ -65,7 +72,7 @@
 |TPS54360|电源管理|电路设计方案|
 |-|分电板|电路设计方案|
 ### 04.Structure/机械部分：
-机械部分是利用`SolidWorks`设计的机械结构，是由多个.sldprt或.sldasm的子部件和一个整体的.sldasm总装配体组成的工程。机械部分是开发阶段对集成的考虑，使得全车紧凑装配成为可能。
+由[Mxacz233](https://github.com/JimHans)同学开发，机械部分是利用`SolidWorks`设计的机械结构，是由多个.sldprt或.sldasm的子部件和一个整体的.sldasm总装配体组成的工程。机械部分是开发阶段对集成的考虑，使得全车紧凑装配成为可能。
 |品牌与型号|类型|内容|
 |:-:|:-:|:-:|
 |DJI M2006电机+C610电调|无刷电机+电驱|最小驱控单元设计方案|
