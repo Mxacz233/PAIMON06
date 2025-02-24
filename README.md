@@ -19,6 +19,8 @@
 
 *注意！此项目涉及嵌入式linux、嵌入式STM32、PCB设计、SolidWorks建模、Python脚本等多个领域，总文件可能较大(约1.8G)，建议根据需求按模块下载。*
 
+*如果这个项目能够帮到你，请给我们一个Star⭐！如果你有任何问题或者建议，请在Issues🤔中提出，我们会尽快回复！*
+
 ## 🌟 团队成员
 <table border="0" style="border:none; margin-left:0;">
   <tr>
@@ -137,10 +139,8 @@
 - 西南赛区第一轮对抗赛：顺利完赛，但对手车辆出现问题，直至我方完赛仍未启动。
 - 西南赛区第二轮对抗赛：对手车辆在第一轮对抗赛中出现问题，弃权。
 - 全国赛第一轮对抗赛：对方为国防科技大学的队伍，对方车辆在直线行进速度优于我方，但转弯与识别速度不及我方，同时对方车辆在行进中出现失控，而后导致双方纠缠，最终我方险胜。
+- 全国赛第二轮对抗赛：对方为广州大学的队伍，也是东南赛区区赛榜首，私下被戏称“东南top1vs西南top1”，竞赛中双方表现都十分优秀，后我方在时间上险胜，获得全国一等奖。
 ## 🛠️ 作品介绍
-<!-- <div style="flex: 1; text-align: center;">
-  <img src="./06.Images/部件图.png"style="width: 25%; max-width: 100%;">
-</div> -->
 <div style="flex: 1; text-align: center;">
   <table style="width:100%; border-collapse: collapse;">
     <tr>
