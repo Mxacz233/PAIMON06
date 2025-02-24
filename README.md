@@ -4,7 +4,7 @@
 
 # PAIMON06: 高性能迷宫车
 [![](https://img.shields.io/badge/演示视频-Bilibili-%23FF8CB0)](https://www.bilibili.com/video/BV1wp4y1N74w/)
-[![](https://img.shields.io/badge/半决赛(vs国防科技大学)-点击播放-blue)](./06.Images/semifinals.mp4)
+[![](https://img.shields.io/badge/半决赛(vs国防科技大学)-点击查看-blue)](./06.Images/semifinals.mp4)
 [![](https://img.shields.io/badge/决赛(vs广州大学)(对手视角)-Bilibili-%23FF8CB0)](https://www.bilibili.com/video/BV1WP411W7m1/)
 [![](https://img.shields.io/badge/获奖新闻-电子科技大学-%23F08300)](https://new1.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=90266)
 [![](https://img.shields.io/badge/获奖新闻-竞赛平台-%23004098)](http://gd.p.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents)
@@ -16,6 +16,9 @@
 一辆全国一等奖的全部！从车上的每一颗螺丝到烧录文件的每一位HEX数据，全都在这里！
 
 此项目是电子科技大学应用电子科技协会第十一届全国大学生光电设计竞赛（2023年）参赛作品，在西南赛区取得了第一名的成绩并在哈尔滨工业大学主办的全国总决赛中取得了全国一等奖的成绩。此项目包含了我们的全部的电路工程、全车建模、包含开发历史的软件与固件等信息。
+
+*注意！此项目涉及嵌入式linux、嵌入式STM32、PCB设计、SolidWorks建模、Python脚本等多个领域，总文件可能较大(约1.8G)，建议根据需求按模块下载。*
+
 ## 🌟 团队成员
 <table border="0" style="border:none; margin-left:0;">
   <tr>
@@ -91,20 +94,6 @@
   |红色|黄色圆形|红方假宝藏|1|
   |蓝色|黄色圆形|蓝方真宝藏|3|
   |蓝色|绿色三角形|蓝方假宝藏|1|
-  <!-- <div style="display: flex; justify-content: space-around; align-items: stretch;">
-    <div style="text-align: center; flex: 1;">
-      <img src="./06.Images/场地.png" style="height: 200px; width: auto; max-width: 100%; object-fit: cover;">
-      <div style="margin-top: 10px;">场地</div>
-    </div>
-    <div style="text-align: center; flex: 1;">
-      <img src="./06.Images/藏宝图.png" style="height: 200px; width: auto; max-width: 100%; object-fit: cover;">
-      <div style="margin-top: 10px;">藏宝图</div>
-    </div>
-    <div style="text-align: center; flex: 1;">
-      <img src="./06.Images/宝藏图.png" style="height: 200px; width: auto; max-width: 100%; object-fit: cover;">
-      <div style="margin-top: 10px;">宝藏</div>
-    </div>
-  </div> -->
 
 <div style="flex: 1; text-align: center;">
   <table style="width:100%; border-collapse: collapse;">
@@ -196,11 +185,11 @@
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
         <img src="./06.Images/二代.jpg" alt="第二代，增加了理线，定制集成单元和原神贴纸" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
-        <div>第二代，理线、集成、原神</div>
+        <div>第二代，理线、集成、原神贴纸</div>
       </td>
       <td style="width:33.33%; text-align:center; padding:5px;">
         <img src="./06.Images/摄像头锁定.gif" alt="二代角度摄像头锁定测试" style="width:100%; aspect-ratio:1/1; object-fit: cover;"><br>
-        <div>二代角度摄像头锁定测试</div>
+        <div>二代摄像头锁定测试</div>
       </td>
     </tr>
     <tr>
