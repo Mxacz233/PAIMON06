@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=M_TX Pin=P?-47
-Removed Pin From Net: NetName=M_TX Pin=U?-7
-Added Pin To Net: NetName=M_TX Pin=P?-57
-Added Pin To Net: NetName=PA9 Pin=P?-47
-Added Pin To Net: NetName=PA9 Pin=U?-7
-Added Net: Name=PA9
-Added Member To Class: ClassName=main Member=Component P? BTB30P

@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=LED1 Old Footprint=1206D New Footprint=0603D
-Change Component Footprint: Designator=LED2 Old Footprint=1206D New Footprint=0603D
-Change Component Footprint: Designator=LED3 Old Footprint=1206D New Footprint=0603D
-Added Member To Class: ClassName=main Member=Component P? BTB30P
