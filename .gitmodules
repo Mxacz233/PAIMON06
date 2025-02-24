@@ -1,0 +1,3 @@
+[submodule "01.Software/PM06_Control"]
+	path = 01.Software/PM06_Control
+	url = https://github.com/JimHans/PM06_Control.git
